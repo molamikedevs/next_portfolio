@@ -102,37 +102,55 @@ export const projects = [
 		iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
 		link: 'https://github.com/adrianhajdin/iphone',
 	},
+
+	{
+		id: 5,
+		title: '3D Solar System Planets to Explore',
+		des: 'Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.',
+		img: '/p1.svg',
+		iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
+		link: 'https://github.com/adrianhajdin?tab=repositories',
+	},
+
+	{
+		id: 6,
+		title: 'Yoom - Video Conferencing App',
+		des: 'Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.',
+		img: '/p2.svg',
+		iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/stream.svg', '/c.svg'],
+		link: 'https://github.com/adrianhajdin/zoom-clone',
+	},
 ]
 
 export const testimonials = [
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: 'Michael Johnson',
+			"Collaborating with Kevin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kevin's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kevin is the ideal partner.",
+		name: 'Alhaji Foday',
 		title: 'Director of AlphaStream Technologies',
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: 'Michael Johnson',
+			"Collaborating with Kevin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kevin's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kevin is the ideal partner.",
+		name: 'Mohamed Bangura',
 		title: 'Director of AlphaStream Technologies',
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: 'Michael Johnson',
+			"Collaborating with Kevin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kevin's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kevin is the ideal partner.",
+		name: 'Ali Sesay',
 		title: 'Director of AlphaStream Technologies',
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: 'Michael Johnson',
+			"Collaborating with Kevin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kevin is the ideal partner.",
+		name: 'Osman Foday Kamara',
 		title: 'Director of AlphaStream Technologies',
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: 'Michael Johnson',
+			"Collaborating with Kevin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kevin is the ideal partner.",
+		name: 'Chernor Bah',
 		title: 'Director of AlphaStream Technologies',
 	},
 ]

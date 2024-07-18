@@ -5,15 +5,8 @@ import MagicButton from './ui/MagicButton'
 
 const Footer = () => {
 	return (
-		<footer className="w-full pt-20 pb-10" id="contact">
+		<footer className="w-full pt-20 pb-10 md:mb-5" id="contact">
 			{/* background grid */}
-			<div className="w-full absolute left-0 -bottom-72 min-h-96">
-				<img
-					src="/footer-grid.svg"
-					alt="grid"
-					className="w-full h-full opacity-50 "
-				/>
-			</div>
 
 			<div className="flex flex-col items-center">
 				<h1 className="heading lg:max-w-[45vw]">
@@ -24,7 +17,7 @@ const Footer = () => {
 					Reach out to me today and let&apos;s discuss how I can help you
 					achieve your goals.
 				</p>
-				<a href="mailto:contact@jsmastery.pro">
+				<a href="mailto:molamikedevs@gmail.com">
 					<MagicButton
 						title="Let's get in touch"
 						icon={<FaLocationArrow />}
@@ -37,7 +30,7 @@ const Footer = () => {
 					Copyright © {new Date().getFullYear()} Molamike Devs
 				</p>
 
-				<div className="flex items-center md:gap-3 gap-6">
+				<div className="flex items-center md:gap-3 gap-6 mt-5">
 					{socialMedia.map(info => (
 						<div
 							key={info.id}
