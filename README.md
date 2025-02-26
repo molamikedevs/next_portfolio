@@ -25,13 +25,15 @@ A **highly interactive** and **visually stunning** developer portfolio built wit
 
 ---
 
-## 📸 Application Banner  
+## 📸 Screenshots  
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="600" alt="Portfolio Screenshot">
+  <a href="https://imgur.com/a/projects-banner-t5oIiXq">
+    <img src="YOUR_DIRECT_IMAGE_URL_HERE" width="600" alt="Projects Banner">
+  </a>
 </p>
 
-
+*(Click the image to view in full resolution.)*  
 
 ---
 
@@ -41,4 +43,5 @@ A **highly interactive** and **visually stunning** developer portfolio built wit
 ```bash
 git clone https://github.com/your-username/next-portfolio.git
 cd next-portfolio
+
 
