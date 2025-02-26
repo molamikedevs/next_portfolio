@@ -34,7 +34,7 @@ A **highly interactive** and **visually stunning** developer portfolio built wit
 </p>
 
 
-*(Click the image to view in full resolution.)*  
+
 
 ---
 
