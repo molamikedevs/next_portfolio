@@ -29,9 +29,10 @@ A **highly interactive** and **visually stunning** developer portfolio built wit
 
 <p align="center">
   <a href="https://imgur.com/a/projects-banner-t5oIiXq">
-    <img src="YOUR_DIRECT_IMAGE_URL_HERE" width="600" alt="Projects Banner">
+    <img src="https://i.imgur.com/2WfB9TD.png" width="600" alt="Projects Banner">
   </a>
 </p>
+
 
 *(Click the image to view in full resolution.)*  
 
