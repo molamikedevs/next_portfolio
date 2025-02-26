@@ -1,4 +1,6 @@
-# 🚀 Modern Developer Portfolio  
+# 🚀 Modern Developer Portfolio 
+
+![Modern Developer Portfolio](https://i.imgur.com/2WfB9TD.png) 
 
 A **highly interactive** and **visually stunning** developer portfolio built with **Next.js, React Three Fiber, and Framer Motion**. Designed to showcase projects, skills, and experience in an engaging and dynamic way.  
 
@@ -25,18 +27,6 @@ A **highly interactive** and **visually stunning** developer portfolio built wit
 
 ---
 
-## 📸 Screenshots  
-
-<p>
-  <a href="https://imgur.com/a/projects-banner-t5oIiXq">
-    <img src="https://i.imgur.com/2WfB9TD.png" width="600" alt="Projects Banner">
-  </a>
-</p>
-
-
-
-
----
 
 ## 🚀 Getting Started  
 
